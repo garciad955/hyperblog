@@ -11,5 +11,6 @@ En este curso se abordaron temas como:
 * Trucos muy locos
 * Creado por mi
 * Incluye multiples ejemplos
+* Disponible para todos
 
 Y como amable recordatorio **Este readme.md es una pruba**. 
