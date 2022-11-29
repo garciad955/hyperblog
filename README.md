@@ -9,5 +9,6 @@ En este curso se abordaron temas como:
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos
+* Creado por mi
 
 Y como amable recordatorio **Este readme.md es una pruba**. 
